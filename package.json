@@ -1,6 +1,6 @@
 {
   "name": "taste-town",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Get recommended places to eat",
   "main": "src/index.js",
   "scripts": {
