@@ -1,0 +1,25 @@
+{
+  "name": "taste-town",
+  "version": "1.0.0",
+  "description": "Get recommended places to eat",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flexkat/taste-town.git"
+  },
+  "keywords": [
+    "food"
+  ],
+  "author": "flexkat",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/flexkat/taste-town/issues"
+  },
+  "homepage": "https://github.com/flexkat/taste-town#readme",
+  "dependencies": {
+    "unique-random-array": "1.0.0"
+  }
+}
